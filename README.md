@@ -56,3 +56,5 @@
 <p>
 Overall, I learnt a lot about Creative Computing – Not only did I expand my knowledge on specific technical terms, but I also ignited an appreciation and enjoyment for coding, something that I would have pushed away from had I not been suggested to try it and I will continue to learn it. <3 Looking into these themes of nostalgia for the digital age has made me want to further develop this idea, as a one-week project has certainly not been long enough to stretch this idea to its fullest potential, and I would also love to experiment/play around with this style more.
 </p>
+
+p.s I coded this whole thing in HTML please appreciate my struggle xx
